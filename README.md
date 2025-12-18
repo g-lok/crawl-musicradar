@@ -1,2 +1,2 @@
 # crawl-musicradar
-crawl the musicradar site and download all the free sample packs
+Crawl music radar to find every free sample .zip on their site
