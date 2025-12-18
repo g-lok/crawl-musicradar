@@ -3,9 +3,8 @@ __pycache__/
 *.py[codz]
 *$py.class
 
-# Any WAV or RX2 files
+# Any WAV files.
 *.wav
-*.rx2
 
 # C extensions
 *.so
