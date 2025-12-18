@@ -23,7 +23,7 @@ run = "python app.py --site_url=https://www.musicradar.com/news/tech/free-music-
 
 [tasks.lint]
 description = "Lint the code"
-run = "ruff src/"
+run = "ruff check app.py"
 
 [tasks.info]
 description = "Print project information"
